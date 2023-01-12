@@ -1,0 +1,53 @@
+.maindiv{
+    border:3px solid red;
+    width:700px;
+    height: 450px;
+    background-color:white;
+   
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+.second-div{
+    background-color: brown;
+    width: 90%;
+    height: 5%;
+    margin-left: 28px; 
+     
+}
+.first-list{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+}
+.third-div{
+background-color: gray;
+width:550px;
+height: 300px;
+margin-left: 80px;
+margin-top: 15px;
+}
+.para1{
+    color: white;
+    text-align: center;
+    font-size: 38px;
+    padding-top: 10px;
+}
+.para2{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 25px;
+
+}
+.second-list{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}

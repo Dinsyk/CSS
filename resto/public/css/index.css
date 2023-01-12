@@ -1,0 +1,208 @@
+header{
+    width: 100%;
+    height:115px;
+    margin:0;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+}
+nav{
+    width: 75%;
+    height: 80px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo{
+    width: 15%;
+    height:80px;
+    
+}
+.label{
+    width: 30%;
+    height: 80px;
+    
+  
+}
+.first-image{
+    width:200px;
+    height: 80px;
+}
+.first-list{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 25px;
+}
+.first-list li{
+    border: 1px solid white;
+}
+.mainbody{
+    width: 100%;
+    height: 450px;
+    background-color: blue;
+    background-image: url("/image5.jpg");
+    background-size: cover;
+    background-repeat: none; 
+    margin-top: -26px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.leftdiv{
+    width:70%;
+    height: 450px;
+    background-color:black;
+}
+.rightdiv{
+    width: 30%;
+    height: 450px;
+}
+.head{ 
+    padding-top: 57px;
+    color: yellow;
+    font-size: 31px;
+    padding-left: 18px;
+}
+.second-list{
+    color: yellow;
+    padding-top: 2px;
+    padding-left: 30px;
+    list-style: square;
+    font-size: 20px;
+}
+.box{
+    width: 240px;
+    height: 350px;
+    border: 2px solid red;
+    margin:60px;
+    background-color: bisque;
+
+}
+.head2{
+    color: black;
+    padding-left:20px;
+
+}
+.uname{
+    color: black;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.input1{
+    width:160px;
+    height: 20px;
+    border: 1px solid blue;
+    margin-left: 20px;
+    margin-top: -11px;
+}
+.password{
+    color: black;
+    font-size: 20px;
+    padding-left: 21px;
+    padding-top: 5px;
+}
+.input2{
+    width:160px;
+    height: 20px;
+    border: 1px solid blue;
+    margin-left: 20px;
+    margin-top: -10px;
+}  
+ .button1{
+    background-color: darkcyan;
+    color: white;
+    margin-left: 45px;
+    margin-top: 10px;
+    border: darkcyan 1px;
+    width: 80px;
+    height: 25px;
+}
+.account{
+    color: black;
+    margin-left: 30px;
+    font-size: 15px;
+    font-style: bold;
+}
+.signup{
+    color: blueviolet;
+    padding-left: 21px;
+    margin-top: -100px;
+    margin-bottom: 10px;
+} 
+footer{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+.footer1{
+    border: 2px solid white;
+    width: 36%;
+    height: 300px;
+    background-color: brown;
+}
+.footer2{
+    border: 2px solid white;
+    width: 32%;
+    height: 300px;
+    background-color:orangered;
+}
+.footer3{
+    border: 2px solid white;
+    width: 32%;
+    height: 00px;
+    background-color: magenta;
+}
+.f1image{
+    width: 200px;
+    border: 1px solid;
+}
+.f1para1{
+    color: black;
+    font-style:normal;
+    font-size: 18px;
+    margin-top: -1px;
+    font-weight: bold;
+}
+.f1para2{
+    color: black;
+    margin-top: -20px;
+}
+.f2image{
+    width: 200px;
+    border: 1px solid;
+}
+.f2para1{
+    color: black;
+    font-style:normal;
+    font-size: 18px;
+    margin-top: -1px;
+    font-weight: bold;
+}
+.f2para2{
+    color: black;
+    margin-top: -23px;
+}
+.f3image{
+    width: 200px;
+    border: 1px solid;
+}
+.f3para1{
+    color: black;
+    font-style:normal;
+    font-size: 18px;
+    margin-top: -1px;
+    font-weight: bold;
+}
+.f3para2{
+    color: black;
+    margin-top: -23px;
+}

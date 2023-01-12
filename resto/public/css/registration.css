@@ -1,0 +1,9 @@
+
+table{
+    background-image: linear-gradient(aqua, magenta);
+    border: 2px dashed black;
+    color:white;
+}
+.first-list{
+    list-style: square;
+}

@@ -1,0 +1,217 @@
+.container1{
+    width: 100%;
+    height: 600px;
+    background-image: url("/public/images/resto\ bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: orangered;
+}
+.restaurant-logo{
+    width: 90px;
+    height: 90px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.head1{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 150px;
+}
+.para1{
+    color: white;
+    font-size: 15px;
+    margin-left:30px;
+    margin-top: 10px;
+    word-spacing: 3px;
+}
+.anchor1{
+    color: brown;
+    margin-left: 30px;
+    margin-top:10px ;
+}
+.container2{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.left2{
+    width: 50%;
+    height: 500px;
+}
+.right2{
+    width: 50%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.box1{
+    width: 900px;
+    height: 60px;
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+} 
+.box2{
+    width: 450px;
+    height: 300px;
+    margin-left: 30px;
+}
+.box3{
+    width: 450px;
+    height: 300px;
+    /* border:2px black solid; */
+    border-bottom: solid black;
+    border-bottom-left-radius: 100px;
+    border-bottom-style: solid black;
+    border-bottom-width: 40px;
+
+
+}
+.box4{
+    width: 400px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 173px;
+}
+.box5{
+    width: 50px;
+    height: 300px;
+    background-color: chocolate;
+    margin-top: 50px;
+    margin-left:-96px;
+}
+.box6{
+    width: 30px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: -97px;
+    background-color: brown;
+}
+
+.box2-image{
+    width: 450px;
+    height: 300px;
+}
+.head2{
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 3px;
+    margin-left: 150px;
+    
+
+
+} 
+.para2{
+    padding-left: 5px;
+    padding-top: -5px;
+}
+.box4-image{
+    width: 400px;
+    height: 300px;
+
+}
+.container3{
+    width: 100%;
+    height: 700px;
+    background-image: url("/public/images/containers.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.head3{
+    color: red;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+.para3{
+    color: white;
+    text-align: center;
+    font-size: 25x;
+}
+.body2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.first-div{
+    width: 350px;
+    height: 470px;
+    background-color: white;
+    margin-top: 40px;
+}
+.second-div{
+    width: 350px;
+    height: 470px;
+    background-color: black;
+    margin-top: 40px;
+}
+.third-div{
+    width: 350px;
+    height: 470px;
+    background-color:orangered;
+    margin-top: 40px;
+}
+.head4{
+    font-size: 80px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.head5{
+    font-size: 80px;
+    color:orangered;
+    font-weight: bold;
+    text-align: center;
+}
+.head6{
+    font-size: 80px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.head7{
+    color: black;
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+    margin-top: -65px;
+    word-spacing: 10px;
+}
+.head8{
+    color: orangered;
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+    margin-top: -65px;
+    word-spacing: 10px;
+}
+.head9{
+    color:white;
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+    margin-top: -65px;
+    word-spacing: 10px;
+}
+.para4{
+    text-align: center;
+}
+.para5{
+    text-align: center;
+    color: orangered;
+}
+.para6{
+    text-align: center;
+    color: white;
+}
